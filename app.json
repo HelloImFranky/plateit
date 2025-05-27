@@ -4,7 +4,7 @@
     "slug": "plateit",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/plateIt/assets/images/plateIt/assets/images/plate_with_the_word.png",
     "scheme": "plateit",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
